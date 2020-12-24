@@ -8,6 +8,7 @@ import android.provider.Settings
 import android.view.View
 import android.widget.TextView
 import androidx.fragment.app.Fragment
+import com.example.guardiana.utils.PreferencesManager
 import com.github.appintro.AppIntro
 import com.github.appintro.AppIntroFragment
 import com.github.appintro.AppIntroPageTransformerType

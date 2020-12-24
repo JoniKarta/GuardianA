@@ -1,4 +1,4 @@
-package com.example.guardiana
+package com.example.guardiana.utils
 
 import android.annotation.SuppressLint
 import android.content.Context
